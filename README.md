@@ -5,4 +5,18 @@
 
 #Dataset Link-: https://www.kaggle.com/c/wallarm-ml-hackathon
 
-#Resources Used-: Pandas, Numpy, Sklearn, nltk, Seaborn, Matplotlib etc.
+#Resources Used-: Pandas, Numpy, Sklearn, nltk, msgpack, Seaborn, Matplotlib etc.
+
+#Algorithm Used-:
+
+Logistic Regression Classifier (LR)
+
+Multinomial Naive Bayes Classifier (mnb)
+
+Gaussian Naive_Bayes Classifier (GNB)
+
+Random Forest Classifier (RFC)
+
+AdaBoost Classifier (Adb)
+
+
